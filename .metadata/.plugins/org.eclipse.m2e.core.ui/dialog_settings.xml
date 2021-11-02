@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\workspace-spring-boot\18-spring-boot-thymeleaf-crud-db-delete-demo"/>
+			<item value="D:\workspace-spring-boot\17-spring-boot-thymeleaf-crud-db-update-demo"/>
+			<item value="D:\workspace-spring-boot\16-spring-boot-thymeleaf-crud-db-add-demo"/>
+			<item value="D:\workspace-spring-boot\15-spring-boot-thymeleaf-crud-db-list-demo"/>
+			<item value="D:\workspace-spring-boot\14-spring-boot-thymeleaf-employess-list-css-demo"/>
+			<item value="D:\workspace-spring-boot\13-spring-boot-thymeleaf-employess-list"/>
+			<item value="D:\workspace-spring-boot\12-spring-boot-thymeleaf-css-demo"/>
+			<item value="D:\workspace-spring-boot\11-spring-boot-thymeleaf-demo"/>
+			<item value="D:\workspace-spring-boot\10-spring-boot-crud-data-rest"/>
+			<item value="D:\workspace-spring-boot\09-spring-boot-crud-data-jpa"/>
+			<item value="D:\workspace-spring-boot\08-spring-boot-crud-jpa-api"/>
+			<item value="D:\workspace-spring-boot\07-spring-boot-crud-hibernate-native-api"/>
+			<item value="D:\workspace-spring-boot\06-spring-boot-custom-prop-demo"/>
+			<item value="D:\workspace-spring-boot\05-spring-boot-cmd-line-demo"/>
+			<item value="D:\workspace-spring-boot\04-spring-boot-actuator-security"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
