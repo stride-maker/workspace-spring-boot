@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_AzVekTvIEey-Pss2uo6EGA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_AzVekjvIEey-Pss2uo6EGA" bindingContexts="_AzVemzvIEey-Pss2uo6EGA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;12-spring-boot-thymeleaf-css-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/12-spring-boot-thymeleaf-css-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;18-spring-boot-thymeleaf-crud-db-delete-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/18-spring-boot-thymeleaf-crud-db-delete-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;17-spring-boot-thymeleaf-crud-db-update-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/17-spring-boot-thymeleaf-crud-db-update-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;16-spring-boot-thymeleaf-crud-db-add-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/16-spring-boot-thymeleaf-crud-db-add-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;15-spring-boot-thymeleaf-crud-db-list-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/15-spring-boot-thymeleaf-crud-db-list-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;14-spring-boot-thymeleaf-employess-list-css-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/14-spring-boot-thymeleaf-employess-list-css-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;13-spring-boot-thymeleaf-employess-list/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/13-spring-boot-thymeleaf-employess-list/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;11-spring-boot-thymeleaf-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/11-spring-boot-thymeleaf-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.wst.server.ui.editor.input.factory&quot; id=&quot;org.eclipse.wst.server.ui.editor&quot; name=&quot;Tomcat v9.0 Server at localhost&quot; tooltip=&quot;Tomcat v9.0 Server at localhost&quot;>&#xD;&#xA;&lt;persistable server-id=&quot;Tomcat v9.0 Server at localhost&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MycoolappApplication.java&quot; tooltip=&quot;01-spring-boot-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/01-spring-boot-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BootController.java&quot; tooltip=&quot;01-spring-boot-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/BootController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/01-spring-boot-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/BootController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;12-spring-boot-thymeleaf-css-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/12-spring-boot-thymeleaf-css-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;18-spring-boot-thymeleaf-crud-db-delete-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/18-spring-boot-thymeleaf-crud-db-delete-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;17-spring-boot-thymeleaf-crud-db-update-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/17-spring-boot-thymeleaf-crud-db-update-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;16-spring-boot-thymeleaf-crud-db-add-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/16-spring-boot-thymeleaf-crud-db-add-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;15-spring-boot-thymeleaf-crud-db-list-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/15-spring-boot-thymeleaf-crud-db-list-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;14-spring-boot-thymeleaf-employess-list-css-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/14-spring-boot-thymeleaf-employess-list-css-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;13-spring-boot-thymeleaf-employess-list/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/13-spring-boot-thymeleaf-employess-list/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;11-spring-boot-thymeleaf-demo/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/11-spring-boot-thymeleaf-demo/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.wst.server.ui.editor.input.factory&quot; id=&quot;org.eclipse.wst.server.ui.editor&quot; name=&quot;Tomcat v9.0 Server at localhost&quot; tooltip=&quot;Tomcat v9.0 Server at localhost&quot;>&#xD;&#xA;&lt;persistable server-id=&quot;Tomcat v9.0 Server at localhost&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_AzVekjvIEey-Pss2uo6EGA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_BIP-pTvIEey-Pss2uo6EGA" label="%trimmedwindow.label.eclipseSDK" x="234" y="234" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
@@ -222,7 +222,7 @@
           <tags>persp.actionSet:org.eclipse.jdt.junit.JUnitActionSet</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8MTvuEeyTM9z2u_fSTw" selectedElement="_dmu8MjvuEeyTM9z2u_fSTw" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8MjvuEeyTM9z2u_fSTw" containerData="2500" selectedElement="_dmu8MzvuEeyTM9z2u_fSTw">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8MjvuEeyTM9z2u_fSTw" containerData="2266" selectedElement="_dmu8MzvuEeyTM9z2u_fSTw">
               <children xsi:type="basic:PartStack" xmi:id="_dmu8MzvuEeyTM9z2u_fSTw" elementId="left" containerData="6000" selectedElement="_dmu8NDvuEeyTM9z2u_fSTw">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
                 <tags>active</tags>
@@ -251,8 +251,8 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8OjvuEeyTM9z2u_fSTw" containerData="7500" selectedElement="_dmu8OzvuEeyTM9z2u_fSTw">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8OzvuEeyTM9z2u_fSTw" containerData="7500" selectedElement="_dmu8PDvuEeyTM9z2u_fSTw" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8OjvuEeyTM9z2u_fSTw" containerData="7734" selectedElement="_dmu8RTvuEeyTM9z2u_fSTw">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8OzvuEeyTM9z2u_fSTw" containerData="7012" selectedElement="_dmu8PDvuEeyTM9z2u_fSTw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_dmu8PDvuEeyTM9z2u_fSTw" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_BMXCkDvIEey-Pss2uo6EGA"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_dmu8PTvuEeyTM9z2u_fSTw" containerData="2500">
                   <children xsi:type="basic:PartStack" xmi:id="_dmu8PjvuEeyTM9z2u_fSTw" elementId="org.eclipse.mylyn.tasks.ui.views.tasksMStack" toBeRendered="false" containerData="5000">
@@ -282,7 +282,7 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_dmu8RTvuEeyTM9z2u_fSTw" elementId="bottom" containerData="2500" selectedElement="_dmu8RjvuEeyTM9z2u_fSTw">
+              <children xsi:type="basic:PartStack" xmi:id="_dmu8RTvuEeyTM9z2u_fSTw" elementId="bottom" containerData="2988" selectedElement="_dmu8SjvuEeyTM9z2u_fSTw">
                 <tags>org.eclipse.e4.secondaryDataStack</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_dmu8RjvuEeyTM9z2u_fSTw" elementId="org.eclipse.ui.views.ProblemView" ref="_BPufoDvIEey-Pss2uo6EGA" closeable="true">
                   <tags>View</tags>
@@ -300,7 +300,7 @@
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
                 </children>
-                <children xsi:type="advanced:Placeholder" xmi:id="_dmu8SjvuEeyTM9z2u_fSTw" elementId="org.eclipse.ui.console.ConsoleView" toBeRendered="false" ref="_BPufojvIEey-Pss2uo6EGA" closeable="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_dmu8SjvuEeyTM9z2u_fSTw" elementId="org.eclipse.ui.console.ConsoleView" ref="_BPufojvIEey-Pss2uo6EGA" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
                 </children>
@@ -596,7 +596,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_BJWK0jvIEey-Pss2uo6EGA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_LaxatzvxEeyqEOwSi9zW-g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_AzzYtTvIEey-Pss2uo6EGA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_vu3asDv4EeyqJ_fxlvlMzg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_AzzYtTvIEey-Pss2uo6EGA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_BJWK0zvIEey-Pss2uo6EGA" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -608,6 +608,9 @@
       <children xsi:type="menu:ToolBar" xmi:id="_BJWK1jvIEey-Pss2uo6EGA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_BJWK1zvIEey-Pss2uo6EGA" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_6c640Dv4EeyqJ_fxlvlMzg" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_drXkkDvuEeyTM9z2u_fSTw" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
         <tags>Draggable</tags>
@@ -633,7 +636,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_BJWK2jvIEey-Pss2uo6EGA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_La6koDvxEeyqEOwSi9zW-g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_AzpqujvIEey-Pss2uo6EGA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_vu3avTv4EeyqJ_fxlvlMzg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_AzpqujvIEey-Pss2uo6EGA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_BJWK2zvIEey-Pss2uo6EGA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3124,7 +3127,7 @@
   <addons xmi:id="_AzVepzvIEey-Pss2uo6EGA" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_AzVeqDvIEey-Pss2uo6EGA" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_AzczUDvIEey-Pss2uo6EGA" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_LRjNQTvxEeyqEOwSi9zW-g" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_AzpnoDvIEey-Pss2uo6EGA" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_AzpnoTvIEey-Pss2uo6EGA" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
